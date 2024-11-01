@@ -8,7 +8,7 @@
 🔥 Skilled in various software development methodologies, including Agile and Waterfall, and highly motivated to learn, grow, and take on complex challenges.<br><br>
 📫 **Contact me**: [Farahmo166@gmail.com](mailto:Farahmo166@gmail.com)  <br><br>
 
-# 💼 Professional Experience<br>
+# 💼 Professional Experience <br>
 **Freelance Application Developer (IBM BAW, BPMN)**  <br>
 *Remote (Jan 2024 – Jun 2024)*  <br>
 - Developed custom process applications focusing on workflow design using BPMN.<br>
