@@ -7,7 +7,7 @@
 📖 Delivered projects utilizing backend solutions like Laravel and Node.js and frontend solutions like React.<br>
 🔥 Skilled in various software development methodologies, including Agile and Waterfall, and highly motivated to learn, grow, and take on complex challenges.<br><br>
 📫 **Contact me**: [Farahmo166@gmail.com](mailto:Farahmo166@gmail.com)  <br><br>
---- <br><br>
+
 # 💼 Professional Experience<br><br>
 **Freelance Application Developer (IBM BAW, BPMN)**  <br>
 *Remote (Jan 2024 – Jun 2024)*  <br>
