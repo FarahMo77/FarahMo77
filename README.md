@@ -11,16 +11,16 @@
 # 💼 Professional Experience <br>
 1. **Freelance Application Developer (IBM BAW, BPMN)**  <br>
 *Remote (Jan 2024 – Jun 2024)*  <br>
-- Developed custom process applications focusing on workflow design using BPMN.<br>
-- Enhanced workflow efficiency by 30%, tailored to clients' unique needs.<br><br>
+  - Developed custom process applications focusing on workflow design using BPMN.<br>
+  - Enhanced workflow efficiency by 30%, tailored to clients' unique needs.<br><br>
 2. **Intern, Full Stack Web Development**  <br>
 *Information Technology Institute (ITI), Egypt (Aug 2023 – Sep 2023)*  <br>            
-- Built responsive web components with PHP and Laravel. <br>
-- Improved database performance, increasing user satisfaction by 25%.<br><br>
+  - Built responsive web components with PHP and Laravel. <br>
+  - Improved database performance, increasing user satisfaction by 25%.<br><br>
 3. **Trainee, Service-Oriented Architecture (SOA)**  <br>
 *National Telecommunication Institute (NTI), Egypt (Sep 2024 – Dec 2024)*  <br>
-- Gained hands-on experience with IBM BPM to create workflow applications.<br>
-- Contributed to a 20% efficiency boost in project processes through automation.<br><br>
+  - Gained hands-on experience with IBM BPM to create workflow applications.<br>
+  - Contributed to a 20% efficiency boost in project processes through automation.<br><br>
 
 # 📜 Certifications<br>
 - **Red Hat Application Development I: Java EE (AD183)**<br>
