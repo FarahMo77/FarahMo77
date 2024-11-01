@@ -9,14 +9,14 @@
 📫 **Contact me**: [Farahmo166@gmail.com](mailto:Farahmo166@gmail.com)  <br><br>
 
 # 💼 Professional Experience <br>
-**Freelance Application Developer (IBM BAW, BPMN)**  <br>
+  **Freelance Application Developer (IBM BAW, BPMN)**  <br>
 *Remote (Jan 2024 – Jun 2024)*  <br>
 - Developed custom process applications focusing on workflow design using BPMN.<br>
 - Enhanced workflow efficiency by 30%, tailored to clients' unique needs.<br><br>
 **Intern, Full Stack Web Development**  <br>
 *Information Technology Institute (ITI), Egypt (Aug 2023 – Sep 2023)*  <br>            
-  - Built responsive web components with PHP and Laravel. <br>
-  - Improved database performance, increasing user satisfaction by 25%.<br><br>
+- Built responsive web components with PHP and Laravel. <br>
+- Improved database performance, increasing user satisfaction by 25%.<br><br>
 **Trainee, Service-Oriented Architecture (SOA)**  <br>
 *National Telecommunication Institute (NTI), Egypt (Sep 2024 – Dec 2024)*  <br>
 - Gained hands-on experience with IBM BPM to create workflow applications.<br>
