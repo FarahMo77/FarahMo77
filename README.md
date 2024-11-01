@@ -21,13 +21,13 @@
 *National Telecommunication Institute (NTI), Egypt (Sep 2024 – Dec 2024)*  <br>
 - Gained hands-on experience with IBM BPM to create workflow applications.<br>
 - Contributed to a 20% efficiency boost in project processes through automation.<br><br>
---- <br><br>
+
 # 📜 Certifications<br>
 - **Red Hat Application Development I: Java EE (AD183)**<br>
 - **OpenShift Development I: Containers with Podman (DO188)**<br>
 - **OpenShift Administration I: Production Cluster (DO180)**<br>
 - **Red Hat System Administration I (RH124)** and **II (RH134)**<br><br>
----<br><br>
+
 Thanks for visiting my profile! 😊 Let's connect and create impactful solutions together.<br>
 
 
